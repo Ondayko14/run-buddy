@@ -239,6 +239,21 @@ header nav ul li a {
 }
 /*end of trainers */
 
+/* Services Grid */
+.service-grid-container {
+    display: grid;
+}
+
+.service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+}
+
+/* end of Services Grid
+
 /* Contact Info */
 .contact {
     background: #024e76;
